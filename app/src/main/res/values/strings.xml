@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="mul">x</string>
+    <string name="div">/</string>
+    <string name="perc">%</string>
+    <string name="root">\u221a</string>
+</resources>
