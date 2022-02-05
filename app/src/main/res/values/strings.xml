@@ -6,4 +6,5 @@
     <string name="div">/</string>
     <string name="perc">%</string>
     <string name="root">\u221a</string>
+    <string name="result">RESULT</string>
 </resources>
